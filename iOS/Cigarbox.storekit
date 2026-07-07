@@ -1,0 +1,27 @@
+{
+  "identifier": "TEMPLATE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "10000001",
+      "localizations": [
+        {
+          "description": "Humidor inventory & pairing history",
+          "displayName": "Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.cigarlog.pro",
+      "referenceName": "Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
